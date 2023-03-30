@@ -1,0 +1,10 @@
+4. Hacer el algoritmo para crear y subir un repositorio a github.
+
+## proceso:
+Inicia sesion en github
+Crea un nuevo repositorio haciendo clic en el botón "+" en la página principal de
+GitHub.
+Dale un nombre a tu repositorio y opcionalmente una descripción.
+Selecciona la opción Public o Private para decidir si tu repositorio será público o privado.
+Haz clic en el botón Create repository.
+*imprimir*(mensaje de creacion exitosa);

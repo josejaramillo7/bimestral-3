@@ -1,0 +1,13 @@
+1. Calcular el área de un triangulo equilátero conociendo la medida de uno de sus lados.
+# solucion:
+
+ ## Variable de entrada:
+ *numerica:* medida de un lado;
+
+ ## variable de salida:
+ *numerica:* area;
+
+ ## proceso:
+ Ingresar la medida de un lado;
+ area= ((Lado * Lado) * sqrt(3)) / 4;
+ *imprimir*(area);
